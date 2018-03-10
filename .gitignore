@@ -1,0 +1,6 @@
+/vendor/
+
+# OS and IDE metadata
+.idea
+Thumbs.db
+.DS_Store
